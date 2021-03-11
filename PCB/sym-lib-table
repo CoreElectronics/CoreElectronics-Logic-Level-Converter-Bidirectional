@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name core-logo)(type Legacy)(uri ${KIPRJMOD}/core-logo.lib)(options "")(descr ""))
+  (lib (name logic_level_converter)(type Legacy)(uri ${KIPRJMOD}/logic_level_converter.lib)(options "")(descr ""))
+)
