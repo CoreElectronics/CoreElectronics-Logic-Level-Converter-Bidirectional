@@ -1,3 +1,4 @@
 (fp_lib_table
-  (lib (name core-logo)(type KiCad)(uri ${KIPRJMOD}/core-logo.pretty)(options "")(descr ""))
+  (lib (name "core-logo")(type "KiCad")(uri "${KIPRJMOD}/core-logo.pretty")(options "")(descr ""))
+  (lib (name "datamatrix")(type "KiCad")(uri "${KIPRJMOD}/artwork/datamatrix.pretty")(options "")(descr ""))
 )
